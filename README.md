@@ -77,7 +77,7 @@ java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.
 
 ---
 
-## ⚙ Requirements
+## Requirements
 - **Java 21** (or compatible version)  
 - **JavaFX SDK 21** (for GUI mode)  
 
